@@ -1,7 +1,6 @@
 # About
-This is the demo site for [Fuwari](https://github.com/117586431/117586431.github.io).
+This is the demo site for [Sakana](https://github.com/117586431/117586431.github.io).
 
-::github{repo="saicaca/fuwari"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
